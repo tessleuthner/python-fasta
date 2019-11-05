@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def read_fasta(filename):
     """
     Read in a file in FASTA format
