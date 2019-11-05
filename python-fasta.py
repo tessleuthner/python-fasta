@@ -1,4 +1,7 @@
 def read_fasta(filename):
+    """
+    Read in a file in FASTA format
+    """
     seq = ''
     f = open(filename)
     for line in f:
